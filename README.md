@@ -4,7 +4,7 @@
   
   - 🔭 I’m currently working as a **Salesforce Developer**
   
-  - 🌱 I’m currently learning **Astro, Svelte, React, Apex**
+  - 🌱 I’m currently learning **Rust**
   
   - 📫 How to reach me **fran1215hm@gmail.com**
   
