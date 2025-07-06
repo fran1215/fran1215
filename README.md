@@ -2,9 +2,9 @@
   <h1 align="center">Hi 👋, I'm Fran</h1>
   <h3 align="center">A passionate backend developer from Spain, but I'm getting into Full-stack development more lately!</h3>
   
-  - 🔭 I’m currently working as a **Research Software Developer** at **ERTIS Research Group of Universidad de Málaga (UMA)**
+  - 🔭 I’m currently working as a **IoT R&D Software Engineer** at **Airzone**
   
-  - 🌱 I’m currently learning **Rust**
+  - 🌱 I’m currently learning **Rust** and **React**
   
   - 📫 How to reach me **fran1215hm@gmail.com**
   
