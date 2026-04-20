@@ -4,7 +4,7 @@
   
   - 🔭 I’m currently working as a **IoT R&D Software Engineer** at **Airzone**
   
-  - 🌱 I’m currently learning **Rust** and **React**
+  - 🌱 I’m currently learning **GoLang**, **Rust** and **React**
   
   - 📫 How to reach me **fran1215hm@gmail.com**
   
